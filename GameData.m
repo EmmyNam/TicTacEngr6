@@ -1,13 +1,6 @@
-%Filename: 			TicTacGame.fig
-%Tag:				TicTacFig
+%Filename: 	GameData
 %Name: 			Tic Tac Toe Game Screen
 %Purpose: 			displays the game board that allows playing tic-tac-toe game
 %and displays scores
 %Tools-GUI Options:	Fig Only + Command Line Accessibility set to ON
 %								  (Handle Visibility set to ON)
-
-
-
-
-
-
